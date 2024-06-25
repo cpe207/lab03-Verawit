@@ -5,4 +5,6 @@
 
 [คลิกเพื่อดูรายละเอียดของแลป](https://o365cmu-my.sharepoint.com/:b:/g/personal/dome_potikanond_cmu_ac_th/EQ6l9WirYQ5GhUBABHB5BiUBQNhFHbzaaUAxFSTsH_72uA?e=ED20AS)
 
- <strong>GITHUB PAGE URL : https://cpe207.github.io/lab02-Verawit/ </strong>
+ <strong>GITHUB PAGE URL :https://cpe207.github.io/lab02-Verawit/ </strong>
+ ผมทักหาออาจารย์ได้มั้ยครับตอนนี้ github ผมวุ่นวายมากครับ
+ 
